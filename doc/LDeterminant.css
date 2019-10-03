@@ -1,0 +1,48 @@
+body {
+  background: #FFFFFF;  
+  .bodycopy {
+    font-family: Verdana, Arial, Times;
+    font-size: 10pt;
+    line-height: 10pt;
+    color: #000000;
+  }
+}
+
+
+a {}
+a:link { color: #3B6DD3; text-decoration: none; }
+a:visited { color: #3B6DD3; text-decoration: none; }
+a:hover { color: #FF0000; text-decoration: underline; }
+
+table {
+  border: solid black 1px;
+}
+
+td {
+  font-family: Arial, Verdana, Times;
+  font-size: 10pt;
+  padding: 7px;
+  border: solid #C0C0C0 1px;
+  text-align: left;
+  vertical-align: top;
+}
+
+}
+
+th {
+  font-family: Arial, Verdana, Times;
+  font-size: 18pt;
+  padding: 7px;
+  border: solid black 1px;
+  background-color: #BFC1EF;
+  text-align: left;
+  vertical-align: top;
+}
+
+
+
+
+
+
+
+
